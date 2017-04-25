@@ -1,4 +1,4 @@
-﻿# [Elektor Labs](www.elektor-labs.com) Projects
+﻿# [Elektor Labs](https://www.elektor-labs.com) Projects
 
 [Elektor AVR Boards Packages for Arduino IDE](https://github.com/ElektorLabs/Arduino)
 Arduino IDE support for AVR-based boards designed by Elektor Labs.
